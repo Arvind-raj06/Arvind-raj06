@@ -1,6 +1,6 @@
 ### Hello 👋 devs
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arvind-raj06=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arvind-raj06&theme=dracula)
 
 - 🔭 I’m currently working on SWoC
 - 👯 I’m looking to collaborate on Open Source
