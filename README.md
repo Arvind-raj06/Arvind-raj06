@@ -1,6 +1,8 @@
 # Hello 👋 devs
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Arvind-raj06&theme=dracula)
+<p align="center">
+<img alt =trophy src = "https://github-profile-trophy.vercel.app/?username=Arvind-raj06&theme=dracula">
+</p>
 
 - 🔭 I’m currently working on SWoC
 - 👯 I’m looking to collaborate on Open Source
@@ -14,5 +16,5 @@
 
 
 <p align="center">
-<img alt =GitHub Streak src = "https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight">
+<img alt =GitHub-Streak src = "https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight">
 </p>
