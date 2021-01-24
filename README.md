@@ -11,3 +11,6 @@
 ![Arvind Raj Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Arvind-raj06&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Arvind Raj Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arvind-raj06&layout=compact&theme=radical)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight)
