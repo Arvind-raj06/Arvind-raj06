@@ -13,4 +13,6 @@
 ![Arvind Raj Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arvind-raj06&layout=compact&theme=radical)
 
 
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight)
+</p>
