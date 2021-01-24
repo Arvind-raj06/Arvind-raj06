@@ -14,5 +14,5 @@
 
 
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight)
+<img alt =GitHub Streak src = "https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight">
 </p>
