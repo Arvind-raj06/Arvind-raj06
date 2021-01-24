@@ -4,7 +4,7 @@
 <img alt =trophy src = "https://github-profile-trophy.vercel.app/?username=Arvind-raj06&theme=dracula">
 </p>
 
-- 🔭 I’m currently working on SWoC
+- 🔭 I’m currently working at SWoC
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Python and competitive programming
 - 📫 How to reach me: Just ping me on any social media contact
