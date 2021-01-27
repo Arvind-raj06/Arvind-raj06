@@ -18,6 +18,6 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Arvind-raj06/Arvind-raj06/Heart.jpg" width=40 height=30>
+<img src="https://github.com/Arvind-raj06/Arvind-raj06/blob/Master/Heart.jpg" width=40 height=30>
 <img alt = Love-count src="https://profile-counter.glitch.me/Arvind-raj06/count.svg">
 </p>
