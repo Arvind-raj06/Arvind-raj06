@@ -18,5 +18,6 @@
 </p>
 
 <p align="center">
+Love Counter
 <img alt = Love-count src="https://profile-counter.glitch.me/Arvind-raj06/count.svg">
 </p>
