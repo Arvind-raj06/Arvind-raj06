@@ -17,4 +17,6 @@
 <img alt =GitHub-Streak src = "https://github-readme-streak-stats.herokuapp.com/?user=Arvind-raj06&theme=tokyonight">
 </p>
 
-![Love count](https://profile-counter.glitch.me/Arvind-raj06/count.svg)
+<p align="center">
+<img alt = Love-count src="https://profile-counter.glitch.me/Arvind-raj06/count.svg">
+</p>
