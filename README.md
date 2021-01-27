@@ -18,6 +18,6 @@
 </p>
 
 <p align="center">
-<img src="" width=50 height=30>
+<img src="" width=40 height=30>
 <img alt = Love-count src="https://profile-counter.glitch.me/Arvind-raj06/count.svg">
 </p>
