@@ -11,6 +11,8 @@
 - 📫 How to reach me: Just ping me on any social media contact
 - 😄 Pronouns: He/Him
 </p>
+
+
 How I speak with Computers:
 
 
