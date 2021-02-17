@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him<br>
 </p>
 
-
+<br>
 How I speak with Computers:
 <p align="center">
 <img alt =Languages src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Languages.jpg">
