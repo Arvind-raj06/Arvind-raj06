@@ -4,6 +4,7 @@
 <img alt =trophy src = "https://github-profile-trophy.vercel.app/?username=Arvind-raj06&theme=dracula">
 </p>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 🔭 I’m currently working on Pydatastructs
 - 👯 I’m looking to collaborate on Python Projects
 - 💬 Ask me about Python and competitive programming
