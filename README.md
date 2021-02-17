@@ -6,9 +6,9 @@
 <p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 🔭 I’m currently working on Pydatastructs<br>
-- 👯 I’m looking to collaborate on Python Projects
-- 💬 Ask me about Python and competitive programming
-- 📫 How to reach me: Just ping me on any social media contact
+- 👯 I’m looking to collaborate on Python Projects<br>
+- 💬 Ask me about Python and competitive programming<br>
+- 📫 How to reach me: Just ping me on any social media contact<br>
 - 😄 Pronouns: He/Him
 </p>
 
