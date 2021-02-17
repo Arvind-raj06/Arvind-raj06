@@ -15,7 +15,9 @@
 
 
 How I speak with Computers:
-
+<p align="center">
+<img alt =Languages src = "">
+</p>
 
 
 <p align="center">
