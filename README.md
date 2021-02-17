@@ -1,4 +1,4 @@
-# Hello 👋 devs
+# Hello 👋 devs, This is Arti
 
 <p align="center">
 <img alt =trophy src = "https://github-profile-trophy.vercel.app/?username=Arvind-raj06&theme=dracula">
@@ -10,7 +10,7 @@
 - 🎓 I'm currently studying Computer Science and Engineering at Sri Sairam Institute of Technology<br>
 - 💬 Ask me about Python and competitive programming<br>
 - 📫 How to reach me: Just ping me on any social media contact<br>
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him<br>
 </p>
 
 
