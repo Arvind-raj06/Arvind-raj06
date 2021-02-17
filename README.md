@@ -16,7 +16,7 @@
 
 How I speak with Computers:
 <p align="center">
-<img alt =Languages src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Languages.jpg" width=50 height=30>
+<img alt =Languages src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Languages.jpg" width=500 height=300>
 </p>
 
 
