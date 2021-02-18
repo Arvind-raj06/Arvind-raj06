@@ -17,7 +17,7 @@
 Platforms familiar with:
 <br><br>
 <p align="center">
-<img alt =Platforms src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Platforms.jpg" width=400 height=200>
+<img alt =Platforms src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Platforms.jpg" width=600 height=300>
 </p>
 
 <br>
