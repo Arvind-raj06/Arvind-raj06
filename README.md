@@ -14,6 +14,13 @@
 </p>
 
 <br>
+Platforms familiar with:
+<br><br>
+<p align="center">
+<img alt =Platforms src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Platforms.jpg">
+</p>
+
+<br>
 How I speak with Computers:
 <br><br>
 <p align="center">
