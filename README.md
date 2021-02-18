@@ -15,14 +15,14 @@
 
 <br>
 How I speak with Computers:
-<br><br><br>
+<br><br>
 <p align="center">
 <img alt =Languages src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Languages.jpg">
 </p>
 
 <br>
 Where I code:
-<br><br><br>
+<br><br>
 <p align="center">
 <img alt =Tools src = "https://github.com/Arvind-raj06/Arvind-raj06/blob/main/Tools.jpg">
 </p>
